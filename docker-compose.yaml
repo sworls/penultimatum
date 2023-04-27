@@ -1,0 +1,6 @@
+version: '3.7'
+services:
+  ai-idol:
+    container_name: ai-idol
+    image: ai-idol-dev
+    command: [ "python", "-u", "src/ultimatum.py" ]
