@@ -1,5 +1,7 @@
 # AI Idol
 
+Install Docker and docker-compose
+
 Set-up dev environment
 `scripts/bootstrap`
 
